@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>hello FRONTEND TRACK</h1>
+
+   <h2>hello every one</h2>
+   <h3>my name is CHUKWU Ihechi Blessing</h3>
+   <h4>I'm happy to be part of this bootcamp</h4>
+   <h5>this is my project assignment</h5>
+</body>
+<link rel="stylesheet" href="/html/styles.css">
+</html>
